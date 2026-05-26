@@ -1,3 +1,22 @@
-*.pdf
+# macOS
 .DS_Store
-.idea
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+
+# PyCharm
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PDF-файлы (уже было)
+*.pdf
