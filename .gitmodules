@@ -1,0 +1,3 @@
+[submodule "web-portfolio_hugo"]
+	path = web-portfolio_hugo/web-portfolio_hugo
+	url = git@github.com:grechixa/web-portfolio_hugo.git
